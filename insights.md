@@ -11,3 +11,24 @@ Tax burden is also uneven across regions. Oceania has the highest average tax pe
 
 Subsidy patterns point in the opposite direction. The Middle East has the highest average subsidy level at 3.00, followed by South America at 2.43 and Africa at 2.00, while Oceania and Europe have the lowest averages. The regional distribution reinforces this pattern: Oceania has 100% low subsidy, while the Middle East has the largest share of very high subsidies. Among low-income countries with very high subsidies, Venezuela, Libya, Egypt, and Nigeria appear most favoured in terms of fuel affordability, while Uganda, Mozambique, Zambia, Rwanda, and Zimbabwe appear least favoured and more vulnerable to affordability pressure.
 
+
+
+
+Insights
+The results suggest that fuel affordability is strongly shaped by geography, taxation, subsidy policy, and income structure.
+
+Europe and Oceania face a double burden of high fuel prices and high taxes, but their higher income composition may cushion the impact of these costs.
+
+The Middle East appears to benefit from lower fuel prices and stronger subsidy support, which improves affordability across the region.
+
+Africa faces the greatest affordability pressure because it combines lower income levels, lower subsidy support in many cases, and weaker fiscal cushioning.
+
+High- and middle-income countries seem to reduce the pressure caused by high taxes and low subsidies, especially in Europe and Oceania.
+
+Overall, the analysis shows that fuel affordability is not only about fuel price alone, but also about the interaction between income level, tax burden, and subsidy support.
+
+Stronger wording for your note
+You can phrase your note like this:
+
+Higher income concentration in Europe and Oceania may help cushion the impact of high fuel taxes and low subsidies, improving overall affordability despite higher fuel prices.
+
