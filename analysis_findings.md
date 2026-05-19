@@ -27,7 +27,7 @@
 - Europe contains 7 of the top 10 highest-taxing countries.
 - Africa has 4 countries among the lowest taxpayers, followed by the Middle East with 2 countries.
 
-  ## 💼 Income Level Distribution
+## 💼 Income Level Distribution
 - Oceania is the most favoured, with 100% high-income countries.
 - Europe follows with about 74% high-income countries.
 - North America has 66.67% high-income countries.
