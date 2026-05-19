@@ -1,7 +1,7 @@
-## Dataset Coverage
+## 🌍 Dataset Coverage
 - The analysis covered 84 countries across 7 continental regions.
 
-## Fuel Price Patterns
+## ⛽ Fuel Price Patterns
 ### Regional fuel price distribution
 - Europe has the highest average fuel price at 3.33.
 - Oceania follows closely at 3.29.
@@ -16,7 +16,7 @@
 - Average fuel prices increased from 2020 to 2026.
 - There was a small dip in 2023, after which prices rose again.
 
-## Tax Burden Patterns
+## 💰 Tax Burden Patterns
 ### Regional tax burden
 - Oceania has the highest average tax percentage at about 39%.
 - Europe follows at about 35%.
@@ -27,7 +27,14 @@
 - Europe contains 7 of the top 10 highest-taxing countries.
 - Africa has 4 countries among the lowest taxpayers, followed by the Middle East with 2 countries.
 
-## Subsidy Distribution
+  ## 💼 Income Level Distribution
+- Oceania is the most favoured, with 100% high-income countries.
+- Europe follows with about 74% high-income countries.
+- North America has 66.67% high-income countries.
+- The Middle East has 55.56% high-income countries.
+- Africa is the least favoured by income structure, with 73.91% low-income countries, 26.09% middle-income countries, and 0% high-income countries.
+
+## 🧩 Subsidy Distribution
 ### Regional subsidy distribution
 - The Middle East has the highest average subsidy level at 3.00.
 - South America follows at 2.43.
@@ -42,17 +49,6 @@
 - For low-income countries, affordability improves as subsidy level increases.
 - Countries such as Venezuela, Libya, Egypt, and Nigeria are the most favoured under very high subsidies.
 - Uganda, Mozambique, Zambia, Rwanda, and Zimbabwe are the least favoured and more likely to face stronger affordability pressure.
-
-## Income Level Distribution
-- Oceania is the most favoured, with 100% high-income countries.
-- Europe follows with about 74% high-income countries.
-- North America has 66.67% high-income countries.
-- The Middle East has 55.56% high-income countries.
-- Africa is the least favoured by income structure, with 73.91% low-income countries, 26.09% middle-income countries, and 0% high-income countries.
-
-
-
-
 
 
 
