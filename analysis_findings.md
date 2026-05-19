@@ -45,7 +45,7 @@
 - Europe has 86.96% low subsidy.
 - The Middle East shows the strongest support, with 55.56% very high subsidies.
 ### Fuel affordability by subsidy levels for low-income countries
-- For low-income countries, affordability improves as the subsidy level increases.
+For low-income countries, affordability improves as the subsidy level increases.
 - Countries such as Venezuela, Libya, Egypt, and Nigeria are the most favoured under very high subsidies.
 - Myanmar, Pakistan, Sudan, and Angola, followed under the high subsidy level group.
 - Nepal, Sri Lanka, Senegal, Ethiopia, and the Ivory Coast are the top 5 under the medium subsidy group level.
