@@ -1,4 +1,4 @@
-# INSIGHTS
+# 💡 Analysis Insights
 
 ## Executive Summary
 
