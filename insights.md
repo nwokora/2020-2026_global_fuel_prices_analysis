@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This analysis examined 84 countries across seven continental regions to assess global fuel price patterns, tax burden, and subsidy distribution. The results show clear regional inequalities in fuel affordability, with Europe and Oceania generally facing the highest fuel prices, tax burdens, and low subsidy support, and tax burdens, while the Middle East records the lowest fuel prices and the strongest subsidy support.
+This analysis examined 84 countries across seven continental regions to assess global fuel price patterns, tax burden, and subsidy distribution. The results show clear regional inequalities in fuel affordability, with Europe and Oceania generally facing the highest fuel prices, tax burdens, and low subsidy support, while the Middle East records the lowest fuel prices and the strongest subsidy support.
 
 ## ⛽ Regional Fuel Price Averages
 Fuel prices vary sharply across regions, with Europe recording the highest average fuel price at 3.33 and Oceania following closely at 3.29. The Middle East has the lowest average at 1.10, while South America and Africa remain relatively low at 1.26 and 1.38, respectively. At the country level, Europe dominates 8 of the top 10 highest fuel-price countries, while the Middle East and Africa dominate the lowest fuel-price countries.
