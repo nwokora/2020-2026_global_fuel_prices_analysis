@@ -1,21 +1,19 @@
-# 2020-2026_global_fuel_prices_analysis
+# 💹 Global Fuel Prices Analysis (2020-2026)
 
-# 💹 Analysis of Google (GOOG) Stock Performance from 2004 to 2025.
-This comprehensive analysis of Alphabet Inc.'s daily OHLCV stock (GOOG) reveals a remarkable 20-year growth trajectory that saw the shares move from ~2.50 (August 19, 2004) to ~200 in 20 years (August 19, 2004 to August 2025), after it first entered its Initial Public Offering (IPO) on August 19, 2004.  
-It further narrows down the trend to mirror the 3 massive market crashes of the 2008 crisis, the COVID chaos, and the 2022 bear market.  
-Skills demonstrated include: data import/cleanup, crisis performance insights, clean matplotlib visualizations, as well as critical thinking and problem-solving, ideal for financial analysis insights.
+This comprehensive analysis of global fuel prices from 2020 to 2026 provides a six-year view of how fuel affordability differs across continents and countries. It examines how income level, subsidy support, and tax burden interact to shape fuel price pressure, revealing clear regional inequalities in affordability. The analysis shows that fuel costs are generally highest in Europe and Oceania, while the Middle East benefits from lower prices and stronger subsidy support. It also highlights how higher income levels can cushion affordability pressure, whereas lower income levels, weaker subsidies, and heavier tax burdens can worsen it.
 
 ## 📂 Repository Layout  
-- **🗄️ dataset** – Raw dataset and cleaned CSV files 
 - **📈 analysis charts** – Final analysis visuals (PNG)
-- **⚙️ process charts** – Technical work steps visual (PNG) 
-- **💡 insights.md** – All insights from analysis
-- **📉 Analysis Findings** – All metrics and findings from the analysis
+- **🗄️ dataset** – Raw dataset and cleaned CSV files
+- **📋 group tables** – Pandas aggregated tables in CSV files
+- **⚙️ process charts** – Technical work steps visual (PNG)
 - **📖 README.md** – Project overview
+- **📉 Analysis Findings** – All metrics and findings from the analysis
+- **💡 insights.md** – All insights from analysis
 
 ## 💡 Key Insights
-Since its 2004 IPO, GOOG traded 584 billion shares over 5,478 sessions peaking at 18.5% volume in 2005 before troughing to 0.64% in low-turnover 2025 (daily volume down from 429M to 19M), while delivering 46x price growth (3.85 to 177.86, +4,520%), with 50.8% higher closes, and 1.93% volatility which signals scalable resilience amid crisis, especially the COVID crisis.
-**[See Insights](https://github.com/nwokora/2004-to-2025-google-stock-analysis/blob/main/insights.md)**
+Global fuel affordability differs widely across regions and countries. Europe and Oceania generally face the highest fuel prices and tax burdens, while the Middle East records the lowest prices and strongest subsidy support. Higher income concentration in some regions helps cushion the burden, whereas lower-income regions face greater pressure. Overall, affordability is shaped not just by fuel prices but by the combined effect of income, taxes, and subsidies. Policymakers should therefore balance taxation with targeted subsidies, especially in lower-income regions, to improve affordability.
+**[See Insights](https://github.com/nwokora/2020-2026_global_fuel_prices_analysis/blob/main/insights.md)**
 
   ## 🛠️ Tools Used
 -  **Excel** – Initial data preview and quick validation of rows & columns distributions
@@ -43,22 +41,22 @@ Since its 2004 IPO, GOOG traded 584 billion shares over 5,478 sessions peaking a
 
 ## 📉 Analysis Findings
 key data points and metrics extracted from the KO analysis.
-**[See Findings](https://github.com/nwokora/2004-to-2025-google-stock-analysis/blob/main/analysis_findings.md)**
+**[See Findings](https://github.com/nwokora/2020-2026_global_fuel_prices_analysis/blob/main/analysis_findings.md)**
 
 ## 📈 Analysis Charts
 This folder holds all the final charts and visualizations created from this analysis.
 These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here:
-**[See Charts](https://github.com/nwokora/2004-to-2025-google-stock-analysis/tree/main/analysis_charts)**
+**[See Charts](https://github.com/nwokora/2020-2026_global_fuel_prices_analysis/tree/main/analysis_charts)**
 
 ## ⚙️ Process Charts
 Work-in-progress charts showing screenshots of analysis steps.
-**[See Charts](https://github.com/nwokora/2004-to-2025-google-stock-analysis/tree/main/process_charts)**
+**[See Charts](https://github.com/nwokora/2020-2026_global_fuel_prices_analysis/tree/main/process_charts)**
 
 ## 🗄️ Dataset
 **Raw Dataset** – Original KO stock data (1962-2022): open, high, low, close prices + daily volume (~15K trading days).  
 **Cleaned Dataset** – Processed CSVs with optimised data types for Power BI analysis.
-**[Dataset](https://github.com/nwokora/2004-to-2025-google-stock-analysis/tree/main/dataset)**
+**[Dataset](https://github.com/nwokora/2020-2026_global_fuel_prices_analysis/tree/main/dataset)**
 
 ## 🔗 Data Source
-Google Stock Dataset (2004–2025) by MuqadasEjaz and collaborators on Kaggle (5,279 rows × 7 columns).
-**[Download Dataset](https://www.kaggle.com/datasets/muqaddasejaz/google-stock-dataset-20042025)**
+Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (5,279 rows × 7 columns).
+**[Download Dataset](https://www.kaggle.com/datasets/belbino/global-fuel-prices-20202026)**
