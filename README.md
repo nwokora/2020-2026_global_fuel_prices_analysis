@@ -35,6 +35,9 @@ I analysed the global fuel prices to examine how income levels, subsidy levels, 
 ## Visualizations
 <img width="797" height="376" alt="Average Fuel Price by Region" src="https://github.com/user-attachments/assets/eb19ea6d-c2e9-4ef0-80de-7c10b221edcc" />
 
+<img width="513" height="256" alt="Average Subsidy by Region" src="https://github.com/user-attachments/assets/6885b8b2-bd37-4e6e-b39a-6da3f4456fd7" /> <img width="514" height="255" alt="Average Tax Percentage by Region" src="https://github.com/user-attachments/assets/057cb288-6780-4ed2-9aea-cc19f4e44566" />
+
+
 
 
 ## 💡 Key Insights
