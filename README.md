@@ -34,6 +34,7 @@ I analysed the global fuel prices to examine how income levels, subsidy levels, 
 
 ## Visualizations
 <img width="627" height="254" alt="Average Fuel Price by Region" src="https://github.com/user-attachments/assets/d182547e-5dd3-4fd3-8ae9-3f1d0985add8" />   
+
 **Average fuel prices varied widely by region, with Europe and Oceania recording the highest values overall. The Middle East had the lowest average fuel price, while South America and Africa also had relatively low prices.**
 
 
