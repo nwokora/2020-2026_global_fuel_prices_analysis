@@ -41,6 +41,11 @@ I analysed the global fuel prices to examine how income levels, subsidy levels, 
 
 **Average tax percentages also differed noticeably by region. Oceania and Europe generally had the highest tax burdens, while South America had the lowest average tax percentage, followed by the Middle East.**
 
+<img width="906" height="256" alt="Subsidy Charts" src="https://github.com/user-attachments/assets/e207c749-ec55-4400-bfb4-7cef93a42453" />
+
+**The Middle East stands out with the highest average subsidy, and that matches its high share of Very High subsidy levels, while South America and Africa also show relatively stronger support than most regions. At the other end, Europe and especially Oceania have the lowest average subsidies, with Oceania being entirely in the Low subsidy category and Europe also heavily concentrated there. Overall, the pattern suggests that subsidy support is much stronger in the Middle East and weaker in Europe and Oceania.**
+
+
 
 
 
