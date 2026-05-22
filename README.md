@@ -30,7 +30,12 @@ Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (5,279 rows × 7 col
 - Table aggregation.
 
 ## Analysis
-I analysed the global fuel prices to examine how income levels, subsidy levels, and tax burden determine fuel affordability across 84 countries in seven regions from 2020 to 2026. I found that fuel prices generally increased over time, with Europe and Oceania showing the highest prices and tax burdens, while the Middle East had the lowest prices and strongest subsidies. Higher-income regions were better able to absorb fuel costs, while lower-income regions faced greater affordability pressure.
+- I compared average fuel prices across 84 countries in 7 regions to identify the 10 costliest countries and the 10 most affordable ones.
+- The regional spread analysis compared average fuel prices, average subsidies, and average tax percentages across regions to reveal the distinct patterns behind fuel affordability.
+- **Share Percentage by Region and Income Level analysis was done to determine the income strength of each region and how they help in making fuel affordable.**
+- **Share Percentage by Region and Subsidy Level analysis was also conducted to determine how different levels of subsidy affect the regional fuel prices.**
+- **The Low-income Subsidy Index analysis was conducted to determine how different levels of subsidy help unburden low-income countries in the fuel affordability struggle.**
+- **The yearly price analysis examines the prices of fuel over the past 6 years**
 
 ## Visualizations
 <img width="627" height="254" alt="Average Fuel Price by Region" src="https://github.com/user-attachments/assets/d182547e-5dd3-4fd3-8ae9-3f1d0985add8" />   
