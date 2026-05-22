@@ -47,7 +47,7 @@ I analysed the global fuel prices to examine how income levels, subsidy levels, 
 
 <img width="629" height="255" alt="Share_pct by Region and Income-level" src="https://github.com/user-attachments/assets/baf4febd-65f2-48d7-ba8c-71246bd0bdba" />
 
-Oceania is the most concentrated in the High category, with Europe and North America also leaning strongly toward High. In contrast, Africa is mostly in the Low category, and South America is dominated by the Middle level. Asia shows a more mixed split across the three categories, while the Middle East shows a split only between Middle and High, with High making up the larger portion.
+**Oceania is the most concentrated in the High category, with Europe and North America also leaning strongly toward High. In contrast, Africa is mostly in the Low category, and South America is dominated by the Middle level. Asia shows a more mixed split across the three categories, while the Middle East shows a split only between Middle and High, with High making up the larger portion.**
 
 
 
