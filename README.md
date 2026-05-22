@@ -1,8 +1,9 @@
 # 💹 Global Fuel Prices Analysis (2020-2026)
 
-This comprehensive analysis of global fuel prices from 2020 to 2026 provides a six-year view of how fuel affordability differs across continents and countries. It examines how income level, subsidy support, and tax burden interact to shape fuel price pressure, revealing clear regional inequalities in affordability.
+## Overview
+This comprehensive analysis of global fuel prices from 2020 to 2026 provides a six-year view of how fuel affordability differs across continents and countries. It examines how income levels, subsidy support, and tax burdens interact to shape fuel price pressures, revealing clear regional inequalities in affordability.
 
-## 🎯 Analysis Objective
+## 🎯 Objective
 The objective of this analysis is to assess how fuel prices, tax percentages, subsidy support, and income levels shape fuel affordability across different continental regions and countries from 2020 to 2026, and to highlight the regions and countries most affected by affordability pressure.
 
 ## 📊 Business Questions Answered
@@ -32,6 +33,9 @@ Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (5,279 rows × 7 col
 I analysed the global fuel prices to examine how income levels, subsidy levels, and tax burden determine fuel affordability across 84 countries in seven regions from 2020 to 2026. I found that fuel prices generally increased over time, with Europe and Oceania showing the highest prices and tax burdens, while the Middle East had the lowest prices and strongest subsidies. Higher-income regions were better able to absorb fuel costs, while lower-income regions faced greater affordability pressure.
 
 ## Visualizations
+<img width="797" height="376" alt="Average Fuel Price by Region" src="https://github.com/user-attachments/assets/eb19ea6d-c2e9-4ef0-80de-7c10b221edcc" />
+
+
 
 ## 💡 Key Insights
 Global fuel affordability differs widely across regions and countries. Europe and Oceania generally face the highest fuel prices and tax burdens, while the Middle East records the lowest prices and strongest subsidy support. Higher income concentration in some regions, like Oceania, Europe, and North America, helps cushion the burden, whereas lower-income regions face greater pressure. Overall, affordability is shaped not just by fuel prices but by the combined effect of income, taxes, and subsidies. Policymakers should therefore balance taxation with targeted subsidies, especially in lower-income regions, to improve affordability.
