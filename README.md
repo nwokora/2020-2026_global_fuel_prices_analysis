@@ -24,10 +24,11 @@ Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (5,279 rows × 7 col
 **[Download Dataset](https://www.kaggle.com/datasets/belbino/global-fuel-prices-20202026)**
 
 ## Data Cleaning and Preparation
-- Checked for duplicates (No duplicates).
-- Checked for missing values (No missing values).
-- Standardised column names.
-- Table aggregation.
+- Checked for duplicates (none were found).
+- Checked for missing values (none were found).
+- Standardized the date column format.
+- Converted income_level and subsidy_level into numeric values.
+- Aggregated the tables for analysis and visualization.
 
 ## Analysis
 - **Average Fuel Price by Countries Analysis** – This analysis was done to compare fuel prices across 84 countries in 7 regions and identify the 10 costliest countries and the 10 most affordable ones.
@@ -52,16 +53,15 @@ Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (5,279 rows × 7 col
 
 <img width="629" height="255" alt="Share_pct by Region and Income-level" src="https://github.com/user-attachments/assets/baf4febd-65f2-48d7-ba8c-71246bd0bdba" />
 
-**Oceania is the most concentrated in the High category, with Europe and North America also leaning strongly toward High. In contrast, Africa is mostly in the Low category, and South America is dominated by the Middle level. Asia shows a more mixed split across the three categories, while the Middle East shows a split only between Middle and High, with High making up the larger portion.**
-
-
-
-
-
+**Oceania is the most concentrated in the High category, with Europe and North America also leaning strongly toward High. In contrast, Africa is mostly in the Low category, and South America dominates the Middle level. Asia shows a more mixed split across the three categories, while the Middle East shows a split only between Middle and High, with High making up the larger portion.**
 
 ## 💡 Key Insights
 Global fuel affordability differs widely across regions and countries. Europe and Oceania generally face the highest fuel prices and tax burdens, while the Middle East records the lowest prices and strongest subsidy support. Higher income concentration in some regions, like Oceania, Europe, and North America, helps cushion the burden, whereas lower-income regions face greater pressure. Overall, affordability is shaped not just by fuel prices but by the combined effect of income, taxes, and subsidies. Policymakers should therefore balance taxation with targeted subsidies, especially in lower-income regions, to improve affordability.
-**[See Insights](https://github.com/nwokora/2020-2026_global_fuel_prices_analysis/blob/main/insights.md)**
+
+Here’s a version that matches the objective more closely:
+
+Fuel affordability varies significantly across continental regions and countries from 2020 to 2026. The analysis shows that Europe and Oceania generally experience the highest fuel prices and tax burdens, while the Middle East records the lowest prices and strongest subsidy support. Regions with stronger income concentration, such as Oceania, Europe, and North America, are better positioned to absorb these costs, while lower-income regions face greater affordability pressure. Overall, fuel affordability is shaped by the combined impact of prices, taxes, subsidies, and income levels, with the greatest strain falling on specific regions and countries that are most exposed to these pressures.
+**[See All Insights](https://github.com/nwokora/2020-2026_global_fuel_prices_analysis/blob/main/insights.md)**
 
 ## Conclusion
 
