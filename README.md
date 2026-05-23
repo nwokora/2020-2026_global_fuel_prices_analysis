@@ -20,7 +20,7 @@ The objective of this analysis is to assess how fuel prices, tax percentages, su
 -  Power BI (Analysis visualization)
 
 ## 🔗 Data Source
-Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (5,279 rows × 7 columns).
+Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (27,468 rows × 10 columns).
 **[Download Dataset](https://www.kaggle.com/datasets/belbino/global-fuel-prices-20202026)**
 
 ## 🧹 Data Cleaning and Preparation
