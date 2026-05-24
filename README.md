@@ -6,13 +6,16 @@ This comprehensive analysis of global fuel prices from 2020 to 2026 provides a s
 ## 🎯 Objective
 The objective of this analysis is to assess how fuel prices, tax percentages, subsidy support, and income levels shape fuel affordability across different continental regions and countries from 2020 to 2026, and to highlight the regions and countries most affected by affordability pressure.
 
-## 📊 Business Questions Answered
-1. Total Trading Volume by Year
-2. Average Daily Trading Volume by Year
-3. Average Closing Price by Year
-4. Average Daily Return by Year
-5. Average Daily Return by Month
-6. Closing Price with Major Stress Periods Highlighted
+## 📊 Analysis Questions
+1. Average Fuel Prices by Countries.
+2. Average Tax Percentage by Countries.
+3. Average Fuel Price by Region.
+4. Low-Income Countries' Affordability Analysis for Different Subsidy Categories.
+5. Average Subsidy by Region.
+6. Average Tax Percentage on Fuel by Regions.
+7. Average Fuel Prices by Year.
+8. Regional Income Level Analysis.
+9. Regional Subsidy Level Analysis.
 
 ## 🛠️ Tools Used
 -  Excel (Initial data preview and quick validation of rows & columns distributions)
