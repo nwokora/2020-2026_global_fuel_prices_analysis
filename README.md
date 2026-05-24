@@ -39,7 +39,7 @@ Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (27,468 rows × 10 c
 - **Share Percentage by Region and Income Level Analysis** – This examined income distribution across regions to understand how regional income strength influences fuel affordability.
 - **Share Percentage by Region and Subsidy Level Analysis** – explored how subsidy levels vary across regions and how those differences influence fuel prices.
 - **The Low-income Subsidy Index Analysis** – This examined how subsidy levels help reduce fuel affordability pressure in low-income countries.
-- **The yearly price analysis** – This tracks fuel price trends over the last six years.**
+- **The yearly price analysis** – This tracks fuel price trends over the last six years.
 
 ## 🔭 Visualizations
 <img width="627" height="254" alt="Average Fuel Price by Region" src="https://github.com/user-attachments/assets/d182547e-5dd3-4fd3-8ae9-3f1d0985add8" />   
