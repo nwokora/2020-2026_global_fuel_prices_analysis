@@ -1,6 +1,6 @@
 # 💹 Global Fuel Prices Analysis (2020-2026)
 
-## Overview
+## 📌 Overview
 This comprehensive analysis of global fuel prices from 2020 to 2026 provides a six-year view of how fuel affordability differs across continents and countries. It examines how income levels, subsidy support, and tax burdens interact to shape fuel price pressures, revealing clear regional inequalities in affordability.
 
 ## 🎯 Objective
