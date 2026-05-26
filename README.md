@@ -3,6 +3,8 @@
 ## 📌 Overview
 This comprehensive analysis of global fuel prices from 2020 to 2026 provides a six-year view of how fuel affordability differs across continents and countries. It examines how income levels, subsidy support, and tax burdens interact to shape fuel price pressures, revealing clear regional inequalities in affordability.
 
+This project involved data cleaning and table aggregation in Python using Pandas, followed by data visualization and dashboard creation in Power BI.
+
 ## 🎯 Objective
 The objective of this analysis is to assess how fuel prices, tax percentages, subsidy support, and income levels shape fuel affordability across different continental regions and countries from 2020 to 2026, and to highlight the regions and countries most affected by affordability pressure.
 
