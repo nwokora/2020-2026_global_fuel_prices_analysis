@@ -36,11 +36,11 @@ Global Fuel Prices 2020–2026 by BELBIN BENO R M on Kaggle (27,468 rows × 10 c
 - Aggregated the tables for analysis and visualization.
 
 ## 📉 Analysis
-- **Average Fuel Price by Countries Analysis** – This analysis was done to compare fuel prices across 84 countries in 7 regions and identify the 10 costliest countries and the 10 most affordable ones.
+- **Average Fuel Price by Countries Analysis** – This analysis compared fuel prices across 84 countries in 7 regions to identify the 10 costliest and 10 most affordable countries. The findings showed that Europe accounted for 8 of the 10 highest-paying countries, while Africa and the Middle East accounted for most of the lowest-paying countries.
 - **Regional Fuel Cost Structure Analysis** – These include: Average Fuel Prices, Average Subsidies, and Average Tax Percentages across regions to reveal the distinct patterns behind fuel affordability.
-- **Share Percentage by Region and Income Level Analysis** – This examined income distribution across regions to understand how regional income strength influences fuel affordability.
-- **Share Percentage by Region and Subsidy Level Analysis** – explored how subsidy levels vary across regions and how those differences influence fuel prices.
-- **The Low-income Subsidy Index Analysis** – This examined how subsidy levels help reduce fuel affordability pressure in low-income countries.
+- **Share Percentage by Region and Income Level Analysis** – This analysis examined income distribution across regions to understand how regional income strength influences fuel affordability. The results showed that Oceania recorded 100% high-income share, Europe had 74% high and 26% middle, and North America had 67% high and 33% middle. Africa was dominated by low income at 74%, with 26% middle, while Asia and South America had a mix of the three income levels.
+- **Share Percentage by Region and Subsidy Level Analysis** – This analysis explored how subsidy levels vary across regions and how those differences influence fuel prices. The results showed that the Middle East had the highest share of very high subsidy countries at 56%, while Africa and South America also had some countries with very high subsidy levels. In contrast, Oceania recorded 100% low subsidy, and Europe was dominated by a low subsidy at 87%.
+- **Low-Income Subsidy Index Analysis** – This analysis examined how subsidy levels help reduce fuel affordability pressure in low-income countries. The best-performing countries were Venezuela, Libya, Egypt, and Nigeria, while Zimbabwe, Rwanda, Zambia, Mozambique, and Uganda ranked among the worst.
 - **The yearly price analysis** – This tracks fuel price trends over the last six years.
 
 ## 🔭 Visualizations
